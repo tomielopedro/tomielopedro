@@ -81,7 +81,6 @@ text, tspan {white-space: pre;}
 <tspan x="650" y="350" class="cc">· </tspan><tspan class="key">Commits</tspan><tspan class="cc"> ..... </tspan><tspan class="value">269</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc"> ..... </tspan><tspan class="value">6</tspan>
 <tspan x="650" y="370" class="cc">· </tspan><tspan class="key">LOC</tspan><tspan class="cc"> ..... </tspan><tspan class="value">2.953.823</tspan><tspan class="cc"> (</tspan><tspan class="addColor">3.524.282</tspan><tspan class="addColor">++</tspan><tspan class="cc"> / </tspan><tspan class="delColor">570.459</tspan><tspan class="delColor">--</tspan><tspan class="cc">)</tspan>
 
-<tspan x="650" y="400" class="cc">· </tspan><tspan class="key">Data</tspan>.<tspan class="key">Persona</tspan><tspan class="cc"> ..... </tspan><tspan class="value">fome de construir o futuro, sede de IA aplicada</tspan>
 
 </text>
 
