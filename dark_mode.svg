@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="monospace" width="1200px" height="730px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="monospace" width="1200px" height="830px" font-size="16px">
 <style>
 .key {fill: #ffa657;}
 .value {fill: #a5d6ff;}
@@ -8,7 +8,7 @@
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1200px" height="730px" fill="#161b22" rx="15"/>
+<rect width="1200px" height="830px" fill="#161b22" rx="15"/>
 
 
 <text x="600" y="40" fill="#c9d1d9" font-family="monospace" font-size="18px" text-anchor="middle">
@@ -22,63 +22,65 @@ text, tspan {white-space: pre;}
 <g transform="translate(0, 120)">
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">++++*++++=++=+++++++==+++=+=========+=*=+++=++=++                                                        </tspan>
-<tspan x="15" y="50">++++*++++=++=+++++++==+++=+=========+=*=+++=++=++                                                        </tspan>
-<tspan x="15" y="70">++++*++++=++=+++++++==+++=+=========+=*=+++=++=++   </tspan>
-<tspan x="15" y="90">++++=++++=++=+====+=+==:-...--==+===++==+===++=+=   </tspan>
-<tspan x="15" y="110">++=+++==++==+==++++==--=+%@@==::==-====+++=+==+++   </tspan>
-<tspan x="15" y="130">++++==++=++++++======-@@@@@@@@@@@@#=+======++++=+   </tspan>
-<tspan x="15" y="150">+++=+++=++++==+====+=*#-         -@=======+===+==   </tspan>
-<tspan x="15" y="170">++=+++++====+======+-#  +.        +===+=====+=+==   </tspan>
-<tspan x="15" y="190">=+++==+=+=========+=.@  @@@@ =@@##@*=+========+=+   </tspan>
-<tspan x="15" y="210">=======+=======+===+:@ .   %      =+==+===++==+=+   </tspan>
-<tspan x="15" y="230">++=+++====+==+-===-=-=--# :@      %+===========++  _</tspan>
-<tspan x="15" y="250">=+++++=++======+=====+=#=#@%:@  #@*========+=====   </tspan>
-<tspan x="15" y="270">++==+=====+====--====+ @%      @@++==+++=+====++=   </tspan>
-<tspan x="15" y="290">+++=++=++=====+==:.==.-@@@@*@@@**---==--====+=+==   </tspan>
-<tspan x="15" y="310">+=++=+==++==+==--+%@ .@+:.@%    @#=---=====+==+++   </tspan>
-<tspan x="15" y="330">*+*++++=+++=-.=*%***@* :    @+####+=======+==   </tspan>
-<tspan x="15" y="350">+=+++=+===-:*%##++=++%@@%     @@*=-+-==+====++=+=   </tspan>
-<tspan x="15" y="370">++*=++=+-:+%*=====--=--+#@@@@@%+-=====-===+===+=+   </tspan>
-<tspan x="15" y="390">++=++++=:##++===++-++============+*%@%#*+==+++=++   </tspan>
-<tspan x="15" y="410">++++++=--#*+*+#-=+=*-==+===-=+===+.   =*++==+=+++   </tspan>
-<tspan x="15" y="430">++++++=@%#+++:*-#*-=++-====-+====++#%##*===+=+++=   </tspan>
-<tspan x="15" y="450">+*++++=:%*#***##%+===+++=====+++-=-===*%#*+=++==+   </tspan>
-<tspan x="15" y="470">+++++*-##+*+++=*%%*+++-=+++=*=++*+=+*@@+ *+++++++   </tspan>
-<tspan x="15" y="490">**+**+=@@@@@@+*%##%%#++++=+:==+++++*+    %*+=+=+=   </tspan>
-<tspan x="15" y="510">**++**+-   .:..%*+*#%%##+##=-++++=*@#    %#++*+++   </tspan>
-<tspan x="15" y="530">*+**++**+-.   @*+#*=--+**#*=-==+#-+#@*== .@++++++   </tspan>
-<tspan x="15" y="550">    T            .                                   </tspan>
-<tspan x="15" y="570">                                                       </tspan>
-<tspan x="15" y="590">                                                       </tspan>
+<tspan x="15" y="30">            _,=&apos;&quot;`&quot;`--._         |  |   |      /    &apos;.  &apos;.</tspan>
+<tspan x="15" y="50">        ,=&apos;&apos;      &lt;&gt;    `-.     /   \  /     .&apos; / /   \   \</tspan>
+<tspan x="15" y="70">     ,=&apos;     &lt;&gt;       &lt;&gt;   `-. |    |  \    / .&apos;  |  /|   |</tspan>
+<tspan x="15" y="90">   ,&apos; &lt;&gt;                   _.=`-.  /    |  /  |  /  / \   \</tspan>
+<tspan x="15" y="110"> .&apos;     &lt;&gt;     &lt;&gt;   _..===&apos;   ,=&apos; |     \ |  /  |  |   |   \</tspan>
+<tspan x="15" y="130">/    &lt;&gt;         _.=&apos;       ,=&apos;   /\      /   |  \ / \   \  |</tspan>
+<tspan x="15" y="150">|           _.=&apos;        ,=&apos; /   |  |    |   /    |  |   |  \</tspan>
+<tspan x="15" y="170">\  &lt;&gt;   _.=&apos;         ,=&apos;   |    \   \  /    |    /   \  \  |</tspan>
+<tspan x="15" y="190">/    .=&apos;             T    /     |   |  |    \   |    |  /  |</tspan>
+<tspan x="15" y="210">| _,=&apos;                L  |   .---------------------------. \</tspan>
+<tspan x="15" y="230">.``  _..J      :       J/  ,&apos;   __           __         .&apos;.</tspan>
+<tspan x="15" y="250"> `--=   F      &apos;       F  /   ,&apos;`.`.       ,&apos;`.`.      / _ \</tspan>
+<tspan x="15" y="270">       L      .        I,&apos;   |_|_|.|      |_|_|.|    ,&apos; |_| .</tspan>
+<tspan x="15" y="290">        J     :        /     |_|_|.&apos;      |_|_|.&apos;   /   |_|   \</tspan>
+<tspan x="15" y="310">`._      ;    &apos;      ,&apos;___________________________,&apos;          |\</tspan>
+<tspan x="15" y="330">   `-.   F    :      =============================&apos;   =.   .=&apos;|</tspan>
+<tspan x="15" y="350">`-.   \  L    .        |=.:   =: ______     .=:&apos;|             |</tspan>
+<tspan x="15" y="370">-. \   \  J    &apos;       |  ___   |      |        |.=&apos;  _.-. `=&apos;|</tspan>
+<tspan x="15" y="390"> `. \  |  ;    :       | |   | =|      |=&apos; ___  |    |   |    |</tspan>
+<tspan x="15" y="410">  | |  |  L    &apos;       | |   |  |      |  |   | |    |   |    |</tspan>
+<tspan x="15" y="430">   \ \ |  J _.=&apos;&quot;&apos;-._  | &apos;---&apos;  |     O|  |   | |    |_.-&apos;  =&quot;|</tspan>
+<tspan x="15" y="450">    \__/..-&apos;         &apos;-|.=&apos;   =&apos;|      |= &apos;---&apos; |      .=     |</tspan>
+<tspan x="15" y="470">_.--&apos;&quot;&quot;&apos;               &apos;---...._|      |        |.=&apos;        _.&apos;</tspan>
+<tspan x="15" y="490">                   O          .&apos; `--.._|    -`=:|      =._.&apos;</tspan>
+<tspan x="15" y="510">                  /&lt;         [`--..__.&apos;]`-._ .=-|=   _.-&apos;</tspan>
+<tspan x="15" y="530">                  \\     _.-&apos;  o ..__]&apos;     `=._|_.-&apos;</tspan>
+<tspan x="15" y="550">                  // _.-&apos;&quot;&apos;-._ |&gt;_.-&apos;</tspan>
+<tspan x="15" y="570">                _.--=&apos;     _.-&apos;/\       .---^---.</tspan>
+<tspan x="15" y="590">           _..-&apos; &apos;&quot;&apos;-._ _.-&apos;            |Inverse|</tspan>
+<tspan x="15" y="610">LGB  _..-&apos;&quot;`---..._ _.-&apos;                | World |</tspan>
+<tspan x="15" y="630">.-=&quot;&apos;`---..__  _..-&apos;                    |`&quot; `-..|</tspan>
+<tspan x="15" y="650">.._       _..-&apos;                         |____ __|</tspan>
+<tspan x="15" y="670">   &apos;-._.-&apos;                                  |/</tspan>
+<tspan x="15" y="690"> _.-&apos;                                    ---^^--</tspan>
 </text>
 
-<text x="500" y="30" fill="#c9d1d9">
-<tspan x="500" y="30">tomielopedro ————————————————————————————————</tspan>
+<text x="650" y="30" fill="#c9d1d9">
+<tspan x="650" y="30">tomielopedro ————————————————————————————————</tspan>
 
-<tspan x="500" y="50" class="cc">· </tspan><tspan class="key">Profile</tspan>.<tspan class="key">Model</tspan><tspan class="cc"> ..... </tspan><tspan class="value">PedroDS-v22.5 (Data Science Optimized)</tspan>
-<tspan x="500" y="70" class="cc">· </tspan><tspan class="key">Operating</tspan>.<tspan class="key">Systems</tspan><tspan class="cc"> ..... </tspan><tspan class="value">Ubuntu | macOS Sonoma</tspan>
-<tspan x="500" y="90" class="cc">· </tspan><tspan class="key">Uptime</tspan><tspan class="cc"> ..... </tspan><tspan class="value">22 anos de execução contínua</tspan>
-<tspan x="500" y="110" class="cc">· </tspan><tspan class="key">IDEs</tspan><tspan class="cc"> ..... </tspan><tspan class="value">VS Code | PyCharm | Jupyter Notebook</tspan>
-<tspan x="500" y="130" class="cc">· </tspan><tspan class="key">Current</tspan>.<tspan class="key">Workload</tspan><tspan class="cc"> ..... </tspan><tspan class="value">Dell Technologies</tspan>
-<tspan x="500" y="150" class="cc">· </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan><tspan class="cc"> ..... </tspan><tspan class="value">Python | JavaScript</tspan>
-<tspan x="500" y="170" class="cc">· </tspan><tspan class="key">Expertise</tspan><tspan class="cc"> ..... </tspan><tspan class="value">Machine Learning | REST APIs | Web Scraping</tspan>
-<tspan x="500" y="190" class="cc">· </tspan><tspan class="key">Learning</tspan>.<tspan class="key">Path</tspan><tspan class="cc"> ..... </tspan><tspan class="value">AI Agents | Deep Learning | NLP</tspan>
-<tspan x="500" y="210" class="cc">· </tspan><tspan class="key">Feature</tspan>.<tspan class="key">Vector</tspan><tspan class="cc"> ..... </tspan><tspan class="value">raciocínio + IA aplicada + inovação</tspan>
+<tspan x="650" y="50" class="cc">· </tspan><tspan class="key">Profile</tspan>.<tspan class="key">Model</tspan><tspan class="cc">..</tspan><tspan class="value">PedroDS-v22.5 (Data Science Optimized)</tspan>
+<tspan x="650" y="70" class="cc">· </tspan><tspan class="key">Operating</tspan>.<tspan class="key">Systems</tspan><tspan class="cc">..</tspan><tspan class="value">Ubuntu | macOS Sonoma</tspan>
+<tspan x="650" y="90" class="cc">· </tspan><tspan class="key">Uptime</tspan><tspan class="cc">..</tspan><tspan class="value">22 anos de execução contínua</tspan>
+<tspan x="650" y="110" class="cc">· </tspan><tspan class="key">IDEs</tspan><tspan class="cc">..</tspan><tspan class="value">VS Code | PyCharm | Jupyter Notebook</tspan>
+<tspan x="650" y="130" class="cc">· </tspan><tspan class="key">Current</tspan>.<tspan class="key">Workload</tspan><tspan class="cc">..</tspan><tspan class="value">Dell Technologies</tspan>
+<tspan x="650" y="150" class="cc">· </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan><tspan class="cc">..</tspan><tspan class="value">Python | JavaScript</tspan>
+<tspan x="650" y="170" class="cc">· </tspan><tspan class="key">Expertise</tspan><tspan class="cc">..</tspan><tspan class="value">Machine Learning | REST APIs | Web Scraping</tspan>
+<tspan x="650" y="190" class="cc">· </tspan><tspan class="key">Learning</tspan>.<tspan class="key">Path</tspan><tspan class="cc">..</tspan><tspan class="value">AI Agents | Deep Learning | NLP</tspan>
+<tspan x="650" y="210" class="cc">· </tspan><tspan class="key">Feature</tspan>.<tspan class="key">Vector</tspan><tspan class="cc">..</tspan><tspan class="value">raciocínio + IA aplicada + inovação</tspan>
 
-<tspan x="500" y="240">— Contact ————————————————————————————————</tspan>
+<tspan x="650" y="240">— Contact ————————————————————————————————</tspan>
 
-<tspan x="500" y="260" class="cc">· </tspan><tspan class="key">Email</tspan><tspan class="cc"> ..... </tspan><tspan class="value">tomielopedro586@gmail.com</tspan>
-<tspan x="500" y="280" class="cc">· </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc"> ..... </tspan><tspan class="value">tomielopedro</tspan>
+<tspan x="650" y="260" class="cc">· </tspan><tspan class="key">Email</tspan><tspan class="cc">..</tspan><tspan class="value">tomielopedro586@gmail.com</tspan>
+<tspan x="650" y="280" class="cc">· </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">..</tspan><tspan class="value">tomielopedro</tspan>
 
-<tspan x="500" y="310">— GitHub Stats ———————————————————————————————</tspan>
+<tspan x="650" y="310">— GitHub Stats ———————————————————————————————</tspan>
 
-<tspan x="500" y="330" class="cc">· </tspan><tspan class="key">Repos</tspan><tspan class="cc"> ..... </tspan><tspan class="value">37</tspan><tspan class="cc"> (</tspan><tspan class="value">41</tspan><tspan class="cc"> contrib.) | </tspan><tspan class="key">Stars</tspan><tspan class="cc"> ..... </tspan><tspan class="value">0</tspan>
-<tspan x="500" y="350" class="cc">· </tspan><tspan class="key">Commits</tspan><tspan class="cc"> ..... </tspan><tspan class="value">269</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc"> ..... </tspan><tspan class="value">6</tspan>
-<tspan x="500" y="370" class="cc">· </tspan><tspan class="key">LOC</tspan><tspan class="cc"> ..... </tspan><tspan class="value">2.953.823</tspan><tspan class="cc"> (</tspan><tspan class="addColor">3.524.282</tspan><tspan class="addColor">++</tspan><tspan class="cc"> / </tspan><tspan class="delColor">570.459</tspan><tspan class="delColor">--</tspan><tspan class="cc">)</tspan>
-
-<tspan x="500" y="400" class="cc">· </tspan><tspan class="key">Data</tspan>.<tspan class="key">Persona</tspan><tspan class="cc"> ..... </tspan><tspan class="value">fome de construir o futuro, sede de IA aplicada</tspan>
+<tspan x="650" y="330" class="cc">· </tspan><tspan class="key">Repos</tspan><tspan class="cc">..</tspan><tspan class="value">37</tspan><tspan class="cc"> (</tspan><tspan class="value">41</tspan><tspan class="cc"> contrib.) | </tspan><tspan class="key">Stars</tspan><tspan class="cc">..</tspan><tspan class="value">0</tspan>
+<tspan x="650" y="350" class="cc">· </tspan><tspan class="key">Commits</tspan><tspan class="cc">..</tspan><tspan class="value">269</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">..</tspan><tspan class="value">6</tspan>
+<tspan x="650" y="370" class="cc">· </tspan><tspan class="key">LOC</tspan><tspan class="cc">..</tspan><tspan class="value">2.953.823</tspan><tspan class="cc"> (</tspan><tspan class="addColor">3.524.282</tspan><tspan class="addColor">++</tspan><tspan class="cc"> / </tspan><tspan class="delColor">570.459</tspan><tspan class="delColor">--</tspan><tspan class="cc">)</tspan>
 
 </text>
-
 </g> </svg>
