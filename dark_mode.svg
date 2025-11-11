@@ -22,40 +22,40 @@ text, tspan {white-space: pre;}
 <g transform="translate(0, 120)">
 
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">            _,=&apos;&quot;`&quot;`--._         |  |   |      /    &apos;.  &apos;.</tspan>
-<tspan x="15" y="50">        ,=&apos;&apos;      &lt;&gt;    `-.     /   \  /     .&apos; / /   \   \</tspan>
-<tspan x="15" y="70">     ,=&apos;     &lt;&gt;       &lt;&gt;   `-. |    |  \    / .&apos;  |  /|   |</tspan>
-<tspan x="15" y="90">   ,&apos; &lt;&gt;                   _.=`-.  /    |  /  |  /  / \   \</tspan>
-<tspan x="15" y="110"> .&apos;     &lt;&gt;     &lt;&gt;   _..===&apos;   ,=&apos; |     \ |  /  |  |   |   \</tspan>
-<tspan x="15" y="130">/    &lt;&gt;         _.=&apos;       ,=&apos;   /\      /   |  \ / \   \  |</tspan>
-<tspan x="15" y="150">|           _.=&apos;        ,=&apos; /   |  |    |   /    |  |   |  \</tspan>
-<tspan x="15" y="170">\  &lt;&gt;   _.=&apos;         ,=&apos;   |    \   \  /    |    /   \  \  |</tspan>
-<tspan x="15" y="190">/    .=&apos;             T    /     |   |  |    \   |    |  /  |</tspan>
-<tspan x="15" y="210">| _,=&apos;                L  |   .---------------------------. \</tspan>
-<tspan x="15" y="230">.``  _..J      :       J/  ,&apos;   __           __         .&apos;.</tspan>
-<tspan x="15" y="250"> `--=   F      &apos;       F  /   ,&apos;`.`.       ,&apos;`.`.      / _ \</tspan>
-<tspan x="15" y="270">       L      .        I,&apos;   |_|_|.|      |_|_|.|    ,&apos; |_| .</tspan>
-<tspan x="15" y="290">        J     :        /     |_|_|.&apos;      |_|_|.&apos;   /   |_|   \</tspan>
-<tspan x="15" y="310">`._      ;    &apos;      ,&apos;___________________________,&apos;          |\</tspan>
-<tspan x="15" y="330">   `-.   F    :      =============================&apos;   =.   .=&apos;|</tspan>
-<tspan x="15" y="350">`-.   \  L    .        |=.:   =: ______     .=:&apos;|             |</tspan>
-<tspan x="15" y="370">-. \   \  J    &apos;       |  ___   |      |        |.=&apos;  _.-. `=&apos;|</tspan>
-<tspan x="15" y="390"> `. \  |  ;    :       | |   | =|      |=&apos; ___  |    |   |    |</tspan>
-<tspan x="15" y="410">  | |  |  L    &apos;       | |   |  |      |  |   | |    |   |    |</tspan>
-<tspan x="15" y="430">   \ \ |  J _.=&apos;&quot;&apos;-._  | &apos;---&apos;  |     O|  |   | |    |_.-&apos;  =&quot;|</tspan>
-<tspan x="15" y="450">    \__/..-&apos;         &apos;-|.=&apos;   =&apos;|      |= &apos;---&apos; |      .=     |</tspan>
-<tspan x="15" y="470">_.--&apos;&quot;&quot;&apos;               &apos;---...._|      |        |.=&apos;        _.&apos;</tspan>
-<tspan x="15" y="490">                   O          .&apos; `--.._|    -`=:|      =._.&apos;</tspan>
-<tspan x="15" y="510">                  /&lt;         [`--..__.&apos;]`-._ .=-|=   _.-&apos;</tspan>
-<tspan x="15" y="530">                  \\     _.-&apos;  o ..__]&apos;     `=._|_.-&apos;</tspan>
-<tspan x="15" y="550">                  // _.-&apos;&quot;&apos;-._ |&gt;_.-&apos;</tspan>
-<tspan x="15" y="570">                _.--=&apos;     _.-&apos;/\       .---^---.</tspan>
-<tspan x="15" y="590">           _..-&apos; &apos;&quot;&apos;-._ _.-&apos;            |Inverse|</tspan>
-<tspan x="15" y="610">LGB  _..-&apos;&quot;`---..._ _.-&apos;                | World |</tspan>
-<tspan x="15" y="630">.-=&quot;&apos;`---..__  _..-&apos;                    |`&quot; `-..|</tspan>
-<tspan x="15" y="650">.._       _..-&apos;                         |____ __|</tspan>
-<tspan x="15" y="670">   &apos;-._.-&apos;                                  |/</tspan>
-<tspan x="15" y="690"> _.-&apos;                                    ---^^--</tspan>
+<tspan x="15" y="30">            _,='"`"`--._         |  |   |      /    '.  '.</tspan>
+<tspan x="15" y="50">        ,=''      &lt;&gt;    `-.     /   \  /     .' / /   \   \</tspan>
+<tspan x="15" y="70">     ,='     &lt;&gt;       &lt;&gt;   `-. |    |  \    / .'  |  /|   |</tspan>
+<tspan x="15" y="90">   ,' &lt;&gt;                   _.=`-.  /    |  /  |  /  / \   \</tspan>
+<tspan x="15" y="110"> .'     &lt;&gt;     &lt;&gt;   _..==='   ,=' |     \ |  /  |  |   |   \</tspan>
+<tspan x="15" y="130">/    &lt;&gt;         _.='       ,='   /\      /   |  \ / \   \  |</tspan>
+<tspan x="15" y="150">|           _.='        ,=' /   |  |    |   /    |  |   |  \</tspan>
+<tspan x="15" y="170">\  &lt;&gt;   _.='         ,='   |    \   \  /    |    /   \  \  |</tspan>
+<tspan x="15" y="190">/    .='             T    /     |   |  |    \   |    |  /  |</tspan>
+<tspan x="15" y="210">| _,='                L  |   .---------------------------. \</tspan>
+<tspan x="15" y="230">.``  _..J      :       J/  ,'   __           __         .'.</tspan>
+<tspan x="15" y="250"> `--=   F      '       F  /   ,'`.`.       ,'`.`.      / _ \</tspan>
+<tspan x="15" y="270">       L      .        I,'   |_|_|.|      |_|_|.|    ,' |_| .</tspan>
+<tspan x="15" y="290">        J     :        /     |_|_|.'      |_|_|.'   /   |_|   \</tspan>
+<tspan x="15" y="310">`._      ;    '      ,'___________________________,'          |\</tspan>
+<tspan x="15" y="330">   `-.   F    :      ============================='   =.   .='|</tspan>
+<tspan x="15" y="350">`-.   \  L    .        |=.:   =: ______     .=:'|             |</tspan>
+<tspan x="15" y="370">-. \   \  J    '       |  ___   |      |        |.='  _.-. `='|</tspan>
+<tspan x="15" y="390"> `. \  |  ;    :       | |   | =|      |=' ___  |    |   |    |</tspan>
+<tspan x="15" y="410">  | |  |  L    '       | |   |  |      |  |   | |    |   |    |</tspan>
+<tspan x="15" y="430">   \ \ |  J _.='"'-._  | '---'  |     O|  |   | |    |_.-'  ="|</tspan>
+<tspan x="15" y="450">    \__/..-'         '-|.='   ='|      |= '---' |      .=     |</tspan>
+<tspan x="15" y="470">_.--'""'               '---...._|      |        |.='        _.'</tspan>
+<tspan x="15" y="490">                   O          .' `--.._|    -`=:|      =._.'</tspan>
+<tspan x="15" y="510">                  /&lt;         [`--..__.']`-._ .=-|=   _.-'</tspan>
+<tspan x="15" y="530">                  \\     _.-'  o ..__]'     `=._|_.-'</tspan>
+<tspan x="15" y="550">                  // _.-'"'-._ |&gt;_.-'</tspan>
+<tspan x="15" y="570">                _.--='     _.-'/\       .---^---.</tspan>
+<tspan x="15" y="590">           _..-' '"'-._ _.-'            |Inverse|</tspan>
+<tspan x="15" y="610">LGB  _..-'"`---..._ _.-'                | World |</tspan>
+<tspan x="15" y="630">.-="'`---..__  _..-'                    |`" `-..|</tspan>
+<tspan x="15" y="650">.._       _..-'                         |____ __|</tspan>
+<tspan x="15" y="670">   '-._.-'                                  |/</tspan>
+<tspan x="15" y="690"> _.-'                                    ---^^--</tspan>
 </text>
 
 <text x="650" y="30" fill="#c9d1d9">
